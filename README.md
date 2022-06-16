@@ -1,1 +1,1 @@
-# implementation-of-RSI-CB256-using-ml-algorithms
+# Classification of RSI-CB256 using Machine Learning Algorithms
